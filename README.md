@@ -59,7 +59,6 @@ Below are the steps to make this package work
 1. Add following script In `boot` method of `app/Providers/AppServiceProvider.php`
 ```
     if ($this->app->environment() == 'local') {
-        $this->app->register('Laracasts\Generators\GeneratorsServiceProvider');
         $this->app->register(\Sven\ArtisanView\ServiceProvider::class);
     }
 ```
