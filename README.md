@@ -50,7 +50,7 @@ Below are the steps to make this package work
 2. In `routes/web.php` file add the route for Decomposer `Route::get('decompose','\Lubusin\Decomposer\Controllers\DecomposerController@index');`
 3. To use the Web UI just visit `http://example.com/decompose`.
 
-#### 5. [sven/artisan-view](https://packagist.org/packages/sven/artisan-view)
+#### 5. [sven/artisan-view](https://github.com/svenluijten/artisan-view)
 
 This Package adds some view related Artisan Commands in your Laravel Project.
 
@@ -62,3 +62,16 @@ Below are the steps to make this package work
         $this->app->register(\Sven\ArtisanView\ServiceProvider::class);
     }
 ```
+2. Visit [this link](https://github.com/svenluijten/artisan-view) for more information.
+
+# License
+open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Courtesy
+- [taylorotwell](https://github.com/taylorotwell)
+- [arcanedev](https://github.com/arcanedev)
+- [itsgoingd](https://github.com/itsgoingd)
+- [barryvdh](https://github.com/barryvdh)
+- [lubusin](https://github.com/lubusin)
+- [svenluijte](https://github.com/svenluijten)
+
