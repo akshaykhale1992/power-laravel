@@ -6,7 +6,7 @@ Just replace the default `composer.json` file from your laravel application with
 
 ## How to Setup Packages
 
-### 1. [arcanedev/log-viewer](https://github.com/ARCANEDEV/LogViewer)
+#### 1. [arcanedev/log-viewer](https://github.com/ARCANEDEV/LogViewer)
 One of the Best Laravel Log viewer with a dedicated Dashboard.
 
 Below are the steps to make this package work
@@ -18,7 +18,7 @@ Below are the steps to make this package work
 5. Configuration settings are in `config/log-viewer.php`.
 
 
-### 2. [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork)
+#### 2. [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork)
 A browser extension for debugging, profiling Laravel Application.
 
 Below are the steps to make this package work
@@ -28,7 +28,7 @@ Below are the steps to make this package work
 3. Install the [Chrome Extension](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp) or [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/clockwork-dev-tools/).
 4. To use the Web UI just visit `http://example.com/__clockwork`.
 
-### 3. [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+#### 3. [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 
 Debug Bar for Laravel Application which includes many collectors for Laravel
 
@@ -40,7 +40,7 @@ Below are the steps to make this package work
 4. For Configuration just execute `php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"`.
 5. Visit [this link](https://github.com/barryvdh/laravel-debugbar) for more information.
 
-### 4. [lubusin/laravel-decomposer](https://github.com/lubusin/laravel-decomposer)
+#### 4. [lubusin/laravel-decomposer](https://github.com/lubusin/laravel-decomposer)
 
 It gives you information about all the installed Packages, their dependencies and Server Environment details.
 
@@ -50,7 +50,7 @@ Below are the steps to make this package work
 2. In `routes/web.php` file add the route for Decomposer `Route::get('decompose','\Lubusin\Decomposer\Controllers\DecomposerController@index');`
 3. To use the Web UI just visit `http://example.com/decompose`.
 
-### 5. [sven/artisan-view](https://packagist.org/packages/sven/artisan-view)
+#### 5. [sven/artisan-view](https://packagist.org/packages/sven/artisan-view)
 
 This Package adds some view related Artisan Commands in your Laravel Project.
 
