@@ -11,7 +11,7 @@
         "itsgoingd/clockwork": "^2.2",
         "laravel/framework": "5.6.*",
         "laravel/tinker": "^1.0",
-        "lubusin/laravel-decomposer": "^1.2",
+        "lubusin/laravel-decomposer": "^1.2"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.1",
