@@ -83,3 +83,4 @@ open-sourced software licensed under the [MIT license](https://opensource.org/li
 - [barryvdh](https://github.com/barryvdh)
 - [lubusin](https://github.com/lubusin)
 - [svenluijte](https://github.com/svenluijten)
+- [nunomaduro](https://github.com/nunomaduro)
