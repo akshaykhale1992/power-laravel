@@ -2,6 +2,8 @@
 
 ![Scrutinizer Build Status](https://scrutinizer-ci.com/g/akshaykhale1992/power-laravel/badges/build.png?b=master)
 
+[![Coverage Status](https://coveralls.io/repos/github/akshaykhale1992/power-laravel/badge.svg?branch=master)](https://coveralls.io/github/akshaykhale1992/power-laravel?branch=master)
+
 Whenever I start a new Laravel Application, I always search online for the best laravel Packages and configure those to my laravel application one by one. This is a tiresome task everytime.
 So here I am sharing the way to customize your Laravel Application with a bunch of most popular and most recommended packages which will be helpful for you during and post-develoment.
 
