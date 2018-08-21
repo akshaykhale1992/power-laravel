@@ -62,3 +62,12 @@ Below are the steps to make this package work
         $this->app->register(\Sven\ArtisanView\ServiceProvider::class);
     }
 ```
+
+#### 6. [nunomaduro/larastan](https://github.com/nunomaduro/larastan)
+Larastan focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code.
+
+Below are the steps to make this package work
+
+1. No Steps, Larastan starts working after installing the Package.
+2. To Analyse the code just execute `php artisan code:analyse`. It also provide different levels of analysis.
+3. Visit [this link](https://github.com/nunomaduro/larastan) for more information.
